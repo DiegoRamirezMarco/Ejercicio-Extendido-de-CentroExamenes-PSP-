@@ -1,0 +1,33 @@
+Examen creado: E1-2024
+Examen creado: E2-2024
+Examen creado: E3-2024
+E2-2024; Juan; Pregunta 1; C
+E2-2024; Juan; Pregunta 2; B
+E2-2024; Juan; Pregunta 3; -
+E2-2024; Juan; Pregunta 4; A
+E1-2024; Pepe; Pregunta 1; -
+E1-2024; Pepe; Pregunta 2; A
+E1-2024; Pepe; Pregunta 3; D
+E3-2024; Luis; Pregunta 1; C
+E2-2024; Juan; Pregunta 5; C
+E2-2024; Juan; Pregunta 6; C
+E1-2024; Pepe; Pregunta 4; A
+E2-2024; Juan; Pregunta 7; -
+E2-2024; Juan; Pregunta 8; A
+E2-2024; Juan; Pregunta 9; -
+E2-2024; Juan; Pregunta 10; C
+E3-2024; Luis; Pregunta 2; B
+E1-2024; Pepe; Pregunta 5; D
+E3-2024; Luis; Pregunta 3; B
+E1-2024; Pepe; Pregunta 6; B
+E3-2024; Luis; Pregunta 4; C
+E1-2024; Pepe; Pregunta 7; -
+E3-2024; Luis; Pregunta 5; B
+E1-2024; Pepe; Pregunta 8; D
+E3-2024; Luis; Pregunta 6; C
+E1-2024; Pepe; Pregunta 9; B
+E3-2024; Luis; Pregunta 7; A
+E1-2024; Pepe; Pregunta 10; A
+E3-2024; Luis; Pregunta 8; D
+E3-2024; Luis; Pregunta 9; C
+E3-2024; Luis; Pregunta 10; D
